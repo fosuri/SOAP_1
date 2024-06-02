@@ -1,0 +1,7 @@
+Install mysqlconnector "pip install mysql-connector-python" and create dababase and user in myphpadmin:
+host: localhost
+name: cdb
+password: cdb
+database name: cdb
+
+You are ready to run code!
